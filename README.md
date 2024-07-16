@@ -1,0 +1,1 @@
+Um app de vendas para uma determinada empresa que vende em atacado. Uma das estratégias de vendas dessa empresa é dar desconto maiores por unidade, este codigo foi feito para estudo de caso tendo como foco o estudo da lynguagem Python em diferentes cenarios.
